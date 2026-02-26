@@ -1,4 +1,6 @@
-# 📝 TodoList API
+#<img width="1364" height="768" alt="Captura de pantalla (173)" src="https://github.com/user-attachments/assets/eae36533-667d-4838-acc8-d3b57bff06e5" />
+<img width="1364" height="768" alt="Captura de pantalla (172)" src="https://github.com/user-attachments/assets/d2cc65b3-0d57-4f51-978b-8ae30707469e" />
+ 📝 TodoList API
 
 API REST desarrollada con **ASP.NET Core** y **Entity Framework Core** para gestionar tareas. Incluye una interfaz web para interactuar con el CRUD sin necesidad de Swagger.
 
